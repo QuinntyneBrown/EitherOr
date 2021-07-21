@@ -1,0 +1,14 @@
+:host {
+  .either-or__title {
+    display: block;
+
+    .either-or--optional {
+      font-weight: 100;
+    }
+  }
+
+  mat-radio-group {
+    display: flex;
+    gap:30px;
+  }
+}
